@@ -3,7 +3,7 @@
 ## <i align="center" style="font-size:2rem">😋 CRUD DE USUARIOS CON RTK QUERY</i>
 
 
-En este proyecto se usaron hooks como **useState,useEffect** , tenologias como  **HTML,CSS,JavaScript,React,SASS** ,para el manejo de estados asincronos **RTK Query** ,para el manejo de estados **Redux** y herramientas extras como **JSON-SERVER**
+En este proyecto se usaron hooks como **useState,useEffect** , tenologias como  **HTML,CSS,JavaScript,React,SASS** ,para el manejo de estados asincronos **RTK Query** ,para el manejo de estados **Redux** y herramientas extras como **JSON-SERVER**.
 
  _Este proyecto fue construido con el proposito de practicar Reduyx y RTK Quer_
 
